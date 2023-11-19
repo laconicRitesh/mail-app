@@ -9,7 +9,7 @@ const routes = {
         path: '/',
         element: Main
     },
-    emails: {
+    email: {
         path: '/email',
         element: Emails
     },
