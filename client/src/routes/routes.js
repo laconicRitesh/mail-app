@@ -9,8 +9,8 @@ const routes = {
         path: '/',
         element: Main
     },
-    email: {
-        path: '/email',
+    emails: {
+        path: '/emails',
         element: Emails
     },
     view: {
